@@ -1,5 +1,7 @@
 # keito_ch
-けいとのサイトです
+旧けいとのサイトです
+新サイトGithub
+https://github.com/gx1285/keito_web
 # Bot紹介サイト
 https://gx1285jp.github.io/Botsite
 # 作成ツール
